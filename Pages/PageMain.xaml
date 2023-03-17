@@ -35,6 +35,12 @@
                     Height="30"
                     FontSize="16"
                     Click="BtnPW6_Click"/>
+            <Button Name="BtnPW7"
+                    Content="ПР.Работа №7"
+                    Width="150"
+                    Height="30"
+                    FontSize="16"
+                    Click="BtnPW7_Click"/>
         </StackPanel>
     </Grid>
 </Page>
